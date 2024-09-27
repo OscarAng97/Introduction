@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kialoke
+- 👋 Hi, I’m Oscar
 - 👀 I’m interested in HTML5,CSS,Javascript,python 
 - 🌱 I’m currently learning python
 <!---
